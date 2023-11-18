@@ -1,9 +1,2 @@
-# Hi there, I'm Silas 👋
-## 🧰 Languages and Technologies
-- Java
-- Spring Boot
-- TypeScript / JavaScript
-- React
-- Angular
-- Rust
-- Python
+# Software Engineer 👨🏼‍💻 // Teacher 👨‍🏫
+❤️ TypeScript || Solid || Python || Java || Rust
