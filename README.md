@@ -1,6 +1,2 @@
-# Software Engineer 👨🏼‍💻 & Teacher 👨‍🏫
-- 👉 TypeScript
-- 👉 Solid
-- 👉 Python
-- 👉 Java
-- 👉 Rust
+# Passionate teacher & coder 👨‍🏫👨🏼‍💻 
+❤️ TypeScript | ❤️ Python | ❤️ React | Java, Rust & more
